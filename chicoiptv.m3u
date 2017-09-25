@@ -1,0 +1,20 @@
+﻿#EXTM3U
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
+#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+
