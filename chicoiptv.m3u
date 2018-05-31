@@ -1,20 +1,261 @@
-﻿#EXTM3U
+#EXTM3U
+#EXTINF:-1, SPORT TV 5 #1
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
+#-----------------------------------------------------------------------------GENERALISTAS PORTUGAL
+#------------------------------------------------------------------RTP
+#-------------------------------------------------RTP Play
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp2.png" ,TP 2 (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+#EXTINF:0,RTP 3 (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF:0,RTP Internacional (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8~
+#EXTINF:0,RTP Memória (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:0,RTP Madeira (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+#EXTINF:0,RTP Açores (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:0,RTP África (RTP Play)
+http://rtp-pull-live-h1bnxvdk2-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#-------------------------------------------------62.28.213.14:9981
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/1439506767
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp2.png" ,RTP 2 (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/1580833545
+#EXTINF:0,RTP 3 (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/1434611461
+#EXTINF:-1,RTP Memória (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/775982095
+#-------------------------------------------------Outras Fontes
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (entrprise.tv)
+http://noscdne.entrprise.tv:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6190.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (AceStream 1)
+acestream://7e6f1bde141e707371b78e844aa38eff5e1ca19a
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp1.png" ,RTP 1 (AceStream 2)
+acestream://49ae7367753c9e906ba05ba23af1d8c7fdf8a20f
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp2.png" ,RTP 2 (entrprise.tv)
+http://noscdne.entrprise.tv:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color-negative/horizontal/rtp2.png" ,RTP 2 (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6188.m3u8
+#EXTINF:0,RTP 3 (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6180.m3u8
+#EXTINF:0,RTPi (onlybest.tv)
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/794/index.m3u8
+#EXTINF:0,RTPi (185.231.163.17)
+http://185.231.163.17/847/2/index.m3u8?k=909371cde50950f747b63dc080ab80a54930778b9d3cd9312612ed48e09850652f21e6ac44d8d5625e9058c7fa0828d94e6a264f4f47e2f8a7b64608db8b30a29fbfcfe206bf72b096ff0212ac9eefe34a0503575ed18b1689f19e409fa40f2f479d1628683bcb7592006263548065cf
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
+#EXTINF:0,SIC (Impresa)
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:0,SIC (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/1682111017
+#EXTINF:0,SIC (entrprise.tv)
+http://noscdne.entrprise.tv:1935/live/sic.stream/livestream.m3u8
+#EXTINF:0,SIC (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6185.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
+#EXTINF:-0,SIC CARAS (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/26934.m3u8
 
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
+#EXTINF:-0,SIC MULHER (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/26933.m3u8
 
+#EXTINF:0,SIC NOTICIAS (Impresa)
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-0,SIC RADICAL (Impresa)
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+
+#EXTINF:0,SIC NOTICIAS (ucaster.eu)
+http://p24.quest123.top:8088/live/crlmafoda/playlist.m3u8?id=99369&pk=2bc82a688acc4f3ea621afbe465a6893269cfc13c89921c6113d4317b4654737
+
+
+#EXTINF:0,TVI (entrprise.tv)
+http://noscdne.entrprise.tv:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:0,TVI (62.28.213.14:9981)
+http://62.28.213.14:9981/stream/channelid/1402355728
+#EXTINF:0,TVI (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6183.m3u8
+
+#EXTINF:0,TVI 24 (entrprise.tv)
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+#EXTINF:0,TVI 24 (iol.pt)
+http://video-auth1.iol.pt:1935/live_tvi24/live_tvi24-3/playlist.m3u8
+
+#EXTINF:0,TVI Ficção (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6174.m3u8
+#EXTINF:0,TVI Reallity (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6173.m3u8
+
+#EXTINF:-0,CMTV (thebestiptv.selfip.org)
+http://thebestiptv.selfip.org:8000/live/lima1/lima1/6179.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/sqxxtw1470409111.png" ,Sport TV 1 (sportsbar.pw)
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g1/SportTV1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/wwsuqv1470409839.png" ,SPORT TV 3 (sportsbar.pw)
+http://sportsbar.pw/lba/MWM2NjljMTc2MzkwZTdkYTZhYTMwMDcwMWU0MTFhMjc=/g3/SportTV3.m3u8 
+#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/uvpqvr1470410094.png" ,SPORT TV 5 (sportsbar.pw)
+http://sportsbar.pw/lba/ODg5ZjMyOGE0ZGJiNzZjN2YzNDA3Nzk5ZWE1NjE4NmY=/g9/SportTV5.m3u8
+
+#EXTINF:0,Sport TV 1 (sharecast.eu #1)
+http://bb.sharecast.eu:8081/shareedge/live1-rbi6c/chunks.m3u8?nimblesessionid=377027&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE4IDQ6MjI6MDQgUE0maGFzaF92YWx1ZT00RFNFMzFqeUlndjR5eitwWDczd2FRPT0mdmFsaWRtaW51dGVzPTg=
+#EXTINF:0,Sport TV 1 (sharecast.eu #2)
+http://bb.sharecast.eu:8081/shareedge/live1-rbi6c/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE4IDQ6MjM6MTYgUE0maGFzaF92YWx1ZT1SdjZIN0pRTUQxb1ZsdUJvSUFlZFlRPT0mdmFsaWRtaW51dGVzPTg=
+#EXTINF:0,Sport TV 1 (sharecast.eu #3)
+http://bb.sharecast.eu:8081/shareedge/live1-rbi6c/chunks.m3u8?nimblesessionid=377062&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDE4IDQ6MjM6MTYgUE0maGFzaF92YWx1ZT1SdjZIN0pRTUQxb1ZsdUJvSUFlZFlRPT0mdmFsaWRtaW51dGVzPTg=
+#EXTINF:0,Sport TV 1 (liveflash.tv #1)
+http://101.liveflashplayer.org:8088/stream/cabecas/playlist.m3u8?id=37843&pk=2bc82a688acc4f3ea621afbe465a6893269cfc13c89921c6113d4317b4654737
+#EXTINF:0,Sport TV 1 (liveflash.tv #2)
+http://102.liveflashplayer.org:8088/stream/cabecas/playlist.m3u8?id=37843&pk=2bc82a688acc4f3ea621afbe465a6893269cfc13c89921c6113d4317b4654737
+
+#EXTINF:0,Sport TV 2 (whostreams.net)
+http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDk6NDc6NDUgQU0maGFzaF92YWx1ZT12akNyU0pFUHZkdFZlcS9sYWgrQWVBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1, SPORT TV 5 #1
+http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjA1OjM5IEFNJmhhc2hfdmFsdWU9eCs5WlREcThPZDBMYmd4UkVNWS9rZz09JnZhbGlkbWludXRlcz0yMA==
+
+
+
+#EXTINF:0,Sport TV 1 (AceStream #1)
+acestream://c175f79bfa5698dff00ae3467068336019b3912e
+#EXTINF:0,Sport TV 1 (AceStream #2)
+acestream://703fe971429f25bab6cae0bd871c56dc7ab47941
+#EXTINF:0,Sport TV 1 (AceStream #3)
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:0,Sport TV 1 (AceStream #4)
+acestream://ef6c2b73a0436e06478790e7f8f27f173159dd59
+#EXTINF:0,Sport TV 1 (AceStream #5)
+acestream://cfeb62e9c104e669a639e74966ad9e6f4b1939b6
+#EXTINF:0,Sport TV 1 (AceStream #6)
+http://content.torrent-tv.ru/10480.acelive 
+
+#EXTINF:0,Sport TV 2 (AceStream #1)
+acestream://4f976fc7116edf065d636dee3105f283c4318b41
+#EXTINF:0,Sport TV 2 (AceStream #2)
+acestream://89122d5e60866e9127a5f3849170031b16402adc
+#EXTINF:0,Sport TV 2 (AceStream #3)
+acestream://2ad69b0cf5a4ba667a7be4316cf3159a3db76058
+#EXTINF:0,Sport TV 2 (AceStream #4)
+acestream://2edaa209fd6c06a26a37ee23eaf107d260a77541 
+#EXTINF:0,Sport TV 2 (AceStream #5)
+acestream://24660dc5f5a642f7f5df8873ddac481bc4702115 
+#EXTINF:0,Sport TV 2 (AceStream #6)
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69 
+#EXTINF:0,Sport TV 2 (torrent-tv.ru)
+http://content.torrent-tv.ru/10481.acelive
+
+#EXTINF:0,Sport TV 3 (AceStream #1)
+acestream://cf72f0fa0cee438cca43f2ea8299d04d1bf4c9d5
+#EXTINF:0,Sport TV 3 (AceStream #2)
+acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992
+#EXTINF:0,Sport TV 3 (AceStream #3)
+acestream://3bdff37b69bdb6a71a85d3af69bbece1961f717d
+#EXTINF:0,Sport TV 3 (AceStream #4)
+acestream://9cc147cb9e58eb6db7c3445e50a24e62d22be9f1
+
+#EXTINF:0,Sport TV 4 (torrent-tv.ru)
+http://content.torrent-tv.ru/10483.acelive
+#EXTINF:0,Sport TV 4 (AceStream #1)
+acestream://d2a63635273232fc7710bb28c8775d18179c4038 
+#EXTINF:0,Sport TV 4 (AceStream #2)
+acestream://4f256982b213a8b3346b01683b82261db8dcd524
+#EXTINF:0,Sport TV 4 (AceStream #3)
+acestream://3d7d8b15f9815a4a729aedff79eba6e390fea2ed
+
+#EXTINF:0,Sport TV 5 (torrent-tv.ru)
+http://content.torrent-tv.ru/10484.acelive
+#EXTINF:0,Sport TV 5 (AceStream #1)
+acestream://bf41112287550c64b2e18e81706e10356dbb8bbc
+#EXTINF:0,Sport TV 5 (AceStream #2)
+acestream://ddb6a548f40c83790bc700105fcfc5f3762214ad
+#EXTINF:0,Sport TV 5 (AceStream #3)
+acestream://e4bb9e8c9d080a418047686bd7891f545bc777d4
+
+#EXTINF:0,Desconhecido
+acestream://64ddc0d865c7781d64f5e892b6bf1e5ba97f3ac5
+#EXTINF:0,Desconhecido
+acestream://e94310f4f16b00befaa0c127de5e57fdf9601c1c
+
+#EXTINF:0,Benfica TV 1 (87.118.138.144:8031)
+http://87.118.138.144:8031/play/a03k
+#EXTINF:0,Benfica TV 1 (#2)
+http://ns3074107.ip-217-182-173.eu:8000/live/micha/micha/2305.m3u8
+#EXTINF:0,Benfica TV 1 (#3)
+http://p24.quest123.top:8088/live/putakepariu/playlist.m3u8?id=98437&wowzasessionid=374670058&pk=21c51040e48e9855a70f7895204a0f0c469c41796a9f5c4c23ad300a40a10ecf
+#EXTINF:0,Benfica TV 1 (AceStream #1)
+acestream://5d56b45fa2bbdeea98669c48848d01347f95e00f
+#EXTINF:0,Benfica TV 1 (AceStream #2)
+acestream://4e0b64e76d0463e96cefa68bdec74674d9c6f721
+#EXTINF:0,Benfica TV 1 (AceStream #3)
+acestream://43cfed1c774938ccd92f29985ebc499db4cc995c
+#EXTINF:0,Benfica TV 1 (AceStream #4)
+acestream://253369b57f2a45e1489e5bb7eab4daf0a4cde415
+#EXTINF:0,Benfica TV 1 (asplaylist)
+http://content.asplaylist.net/13490.acelive
+
+#EXTINF:0,Benfica TV 2 (AceStream #1)
+acestream://c6139b6f129f18e6a00f6445908b4d7dd7aae354
+#EXTINF:0,Benfica TV 2 (AceStream #2)
+acestream://268ff30294df9bf2145d2c684f67edc60ea4dcd6
+#EXTINF:0,Benfica TV 2 (AceStream #3)
+acestream://c1646f459c86ab24533650333957a57b457d80c1
+#EXTINF:0,Benfica TV 2 (AceStream #4)
+acestream://b65b8012d9cabc96b74013fb2f2ba9ead3e0b262
+
+ 
+
+
+
+SKY NEWS (720p)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+
+#EXTINF:-1,ABC News
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-b.m3u8
+http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_2500_av-p.m3u8
+http://abclive2-lh.akamaihd.net:80/i/abc_live11@423404/index_2500_av-b.m3u8
+http://abclive2-lh.akamaihd.net:80/i/abc_live11@423404/index_2500_av-p.m3u8
+
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Russia Today
+https://secure-streams.akamaized.net/rt/index2500.m3u8
+#EXTINF:-1,Russia Today Doc
+https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
+#EXTINF:-1,Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1,RT Español
+https://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+
+SBT (720p)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+
+Record Int (720p)
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?
+
+
+
+
+KIII-DT http://kiiilive-lh.akamaihd.net/i/KIIILive_1@180521/master.m3u8
+KRIS-DT http://api.new.livestream.com/accounts/16030759/events/4495499/live.m3u8
+KZTV-DT http://api.new.livestream.com/accounts/16030806/events/4495509/live.m3u8
+Circa News https://content.uplynk.com/channel/56a2ac13119e4094ae3aaa9e368d6c03.m3u8
+
+Newsy https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+KIII-EX http://kiiilive-lh.akamaihd.net/i/KIIIBreaking_1@14583/master.m3u8
+KSAT-EX https://klive-a.akamaihd.net/dc-1/live/hls/p/1636891/e/0_3guabp7q/sd/10000/t/qjJgFZR9GNVf50rHznI6hg/index-s32.m3u8
+KABB https://content.uplynk.com/channel/ef29ad2406c644199e5498e68583ca7c.m3u8
+KSAT-WX https://klive-a.akamaihd.net/dc-1/live/hls/p/1636891/e/0_l0geau0c/sd/10000/t/qEQlk9y3Wk7II4VXZYrYlw/index-s32.m3u8
+Circa https://www.circa.com/circa-live
+Spectrum News San Antonio http://mmdai-linear-west-02.timewarnercable.com/linear-scope010.timewarnercable.com/LIVE/1009/hls/ae/TWCNSA/index.m3u8?nw=376521&prof=376521:twc_hls_live&mode=live&vdur=600&caid=NEWSSAN_LIVE&csid=twcnewsweb_livetv&_fw_lpu=http://linear-scope010.timewarnercable.com/LIVE/1009/hls/ae/TWCNSA/index.m3u8
+KSAT-DT https://content.uplynk.com/preplay/channel/0e7c1e5cfe3a4c79a38a4f602f5189d8.json?expand=live
