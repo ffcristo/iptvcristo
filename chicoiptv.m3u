@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, SPORT TV 5 #1
+#EXTINF:-1, ???
 
 #-----------------------------------------------------------------------------GENERALISTAS PORTUGAL
 #------------------------------------------------------------------RTP
@@ -116,11 +116,8 @@ http://101.liveflashplayer.org:8088/stream/cabecas/playlist.m3u8?id=37843&pk=2bc
 http://102.liveflashplayer.org:8088/stream/cabecas/playlist.m3u8?id=37843&pk=2bc82a688acc4f3ea621afbe465a6893269cfc13c89921c6113d4317b4654737
 
 #EXTINF:0,Sport TV 2 (whostreams.net)
-http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDk6NDc6NDUgQU0maGFzaF92YWx1ZT12akNyU0pFUHZkdFZlcS9sYWgrQWVBPT0mdmFsaWRtaW51dGVzPTIw
-
-#EXTINF:-1, SPORT TV 5 #1
-http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjA1OjM5IEFNJmhhc2hfdmFsdWU9eCs5WlREcThPZDBMYmd4UkVNWS9rZz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, SPORT TV 5 #1z
+http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, SPORT TV 5 (whostreams.net)
 http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
 
 
