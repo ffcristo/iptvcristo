@@ -1,27 +1,17 @@
 #EXTM3U
-#EXTINF:-1, SPORT TV 5 #1z
+
+
+
+
+#EXTINF:0,Sport TV 2 V1
+http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjA1OjM5IEFNJmhhc2hfdmFsdWU9eCs5WlREcThPZDBMYmd4UkVNWS9rZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0,Sport TV 2 V2
+http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0,Sport TV 2 V3
+http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDk6NDc6NDUgQU0maGFzaF92YWx1ZT12akNyU0pFUHZkdFZlcS9sYWgrQWVBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1, SPORT TV 5 V1
+http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjA1OjM5IEFNJmhhc2hfdmFsdWU9eCs5WlREcThPZDBMYmd4UkVNWS9rZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1, SPORT TV 5 V2
 http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, SPORT TV 5 #2
-http://cdn.whostreams.net:8081/wsedge/pst4nwvms/chunks.m3u8?nimblesessionid=46871787&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1, SPORT TV 5 #3
-http://cdn.whostreams.net:8081/wsedge/pst4nwvms/chunks.m3u8?nimblesessionid=37343500&wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-logo="https://i.imgur.com/58EJWuz.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1
-http://asdp.ddns.net:8000/live/daniel/daniel/177.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aGZgg2O.png" tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD
-http://cdn.whostreams.net:8081/wsedge/s6m0vsdisiufp7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE4IDE6Mzk6MjEgUE0maGFzaF92YWx1ZT0zZklkdmNNMUo1Q3hoWXhtSmV5THJ3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cpfrhLH.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2
-http://asdp.ddns.net:8000/live/daniel/daniel/471.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aaci9kO.png" tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD
-http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE4IDE6NDI6MTcgUE0maGFzaF92YWx1ZT1PNnUwVkpGc0dxYzFzVTlFZDd2bUx3PT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U2nawij.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3
-http://asdp.ddns.net:8000/live/daniel/daniel/472.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A3zgLVH.png" tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD
-http://cdn.whostreams.net:8081/wsedge/5bw0ttm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE4IDE6NDM6NTEgUE0maGFzaF92YWx1ZT10S0JPSDdyL0laU1FmUG1IZ3pYc1hnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oVOhSkr.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4
-http://asdp.ddns.net:8000/live/daniel/daniel/202.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LvsaWyr.png" tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD
-http://cdn.whostreams.net:8081/wsedge/3ant1pjxw3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE4IDE6NDU6MDAgUE0maGFzaF92YWx1ZT1WZFN3V1lRUTlsL2NBMlpFNHBkd2JnPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y27eWmG.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5
-http://asdp.ddns.net:8000/live/daniel/daniel/184.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gJxbexV.png" tvg-id="sporttv5.pt" group-title="PORTUGAL",SPORT TV 5 HD
-http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDE4IDE6NDY6MTMgUE0maGFzaF92YWx1ZT0zL3lTME1VaVlOM3dCa0NnbXFHQkt3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1, SPORT TV 5 V3
+http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDk6NDc6NDUgQU0maGFzaF92YWx1ZT12akNyU0pFUHZkdFZlcS9sYWgrQWVBPT0mdmFsaWRtaW51dGVzPTIw
