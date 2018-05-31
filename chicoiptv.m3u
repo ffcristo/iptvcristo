@@ -120,7 +120,8 @@ http://cdn.whostreams.net:8081/wsedge/2dbrbt50ibw21jq/playlist.m3u8?wmsAuthSign=
 
 #EXTINF:-1, SPORT TV 5 #1
 http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjA1OjM5IEFNJmhhc2hfdmFsdWU9eCs5WlREcThPZDBMYmd4UkVNWS9rZz09JnZhbGlkbWludXRlcz0yMA==
-
+#EXTINF:-1, SPORT TV 5 #1z
+http://cdn.whostreams.net:8081/wsedge/pst4nwvms/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDE4IDEwOjQ1OjQzIEFNJmhhc2hfdmFsdWU9RWQ3Vm5WdXFWbHYrMTBjRnFjWkV6UT09JnZhbGlkbWludXRlcz0yMA==
 
 
 #EXTINF:0,Sport TV 1 (AceStream #1)
