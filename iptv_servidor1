@@ -1,685 +1,685 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="- — Portugal — -" tvg-logo="https://hgpblog.files.wordpress.com/2010/02/bandeira_portugal_480.jpg" group-title="PORTUGAL",- — Portugal — -
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/155186.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/155186.m3u8
 #EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1" tvg-logo="https://cld.pt/dl/download/f9a2412c-248e-481d-8338-fb8ff964472e/RTP%201.png" group-title="PORTUGAL",RTP 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/22439.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/22439.m3u8
 #EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/77cf5861-2b70-4ae0-b7c0-651e73305da0/RTP%201%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",RTP 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14310.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14310.m3u8
 #EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2" tvg-logo="https://cld.pt/dl/download/c2eae1b5-ba7e-4414-b975-659101552ddd/RTP%202.png" group-title="PORTUGAL",RTP 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14312.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14312.m3u8
 #EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/16c01bbd-99e0-47c8-88af-502905604f52/RTP%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",RTP 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14313.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14313.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/SIC.png" group-title="PORTUGAL",SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14314.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14314.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᴴᴰ" tvg-logo="https://cld.pt/dl/download/6c91d688-bf40-4c9e-bf15-3d5da98f9dc8/SIC%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14315.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14315.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/6c91d688-bf40-4c9e-bf15-3d5da98f9dc8/SIC%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14316.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14316.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/TVI.png" group-title="PORTUGAL",TVI
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14318.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14318.m3u8
 #EXTINF:-1 tvg-id="TVID" tvg-name="TVI ᴴᴰ" tvg-logo="https://cld.pt/dl/download/12120e43-d2e1-4f44-a6d3-4116353e7c83/TVI%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TVI ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14321.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14321.m3u8
 #EXTINF:-1 tvg-id="TVID" tvg-name="TVI ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/12120e43-d2e1-4f44-a6d3-4116353e7c83/TVI%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TVI ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14319.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14319.m3u8
 #EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24" tvg-logo="https://cld.pt/dl/download/ed7e7522-8c25-4b23-ba1c-67da66a8df89/TVI%2024.png" group-title="PORTUGAL",TVI 24
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/63351.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/63351.m3u8
 #EXTINF:-1 tvg-id="TVI24Hd" tvg-name="TVI 24 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/56402458-80b2-429f-b008-d4fc0a6b1611/TVI%2024%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TVI 24 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14331.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14331.m3u8
 #EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="https://cld.pt/dl/download/49acf423-8cd7-444d-9c98-002da0d91288/SIC%20Noticias%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC Noticias
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14332.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14332.m3u8
 #EXTINF:-1 tvg-id="SICNHd" tvg-name="SIC Noticias ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/49acf423-8cd7-444d-9c98-002da0d91288/SIC%20Noticias%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC Noticias ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14334.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14334.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://cld.pt/dl/download/94082ba3-3d8c-4356-b267-4923761587f6/CMTV.png" group-title="PORTUGAL",CMTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14327.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14327.m3u8
 #EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/4335bab7-ef74-4a76-ac5e-0009ae5a1b91/CMTV%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",CMTV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14328.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14328.m3u8
 #EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://cld.pt/dl/download/52c3185e-a45c-4f9b-9a8c-5670ddb3640c/RTP%203.png" group-title="PORTUGAL",RTP 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14322.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14322.m3u8
 #EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal  ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/d7eefc9e-c979-4ab8-a52f-33363918e0ab/Porto%20Canal%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Porto Canal  ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14338.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14338.m3u8
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV" tvg-logo="https://cld.pt/dl/download/f0d3e171-8c89-4604-9244-a62b0cb5146d/ABola%20TV%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",A Bola TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14339.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14339.m3u8
 #EXTINF:-1 tvg-id="A Bola TV" tvg-name="A Bola TV ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/f0d3e171-8c89-4604-9244-a62b0cb5146d/ABola%20TV%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",A Bola TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/13554.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/13554.m3u8
 #EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11" tvg-logo="https://cld.pt/dl/download/49997863-1103-4343-9ad9-6742fc44b1cd/Canal%2011%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Canal 11
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14324.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14324.m3u8
 #EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/49997863-1103-4343-9ad9-6742fc44b1cd/Canal%2011%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Canal 11 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14326.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14326.m3u8
 #EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="TVI Ficcao" tvg-logo="https://cld.pt/dl/download/4c67a070-23c0-41aa-991f-7b234ce15580/TVI%20Fic%C3%A7%C3%A3o.png" group-title="PORTUGAL",TVI Ficcao
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14342.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14342.m3u8
 #EXTINF:-1 tvg-id="TVI Reality" tvg-name="TVI Reality" tvg-logo="https://cld.pt/dl/download/bf28c194-ab62-4655-b2d3-3b0d01d20260/TVI%20Reality.png" group-title="PORTUGAL",TVI Reality
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14346.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14346.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI Reality ᴹᵒˢᵃᶦᶜᵒ" tvg-logo="https://cld.pt/dl/download/f46c2e17-cd8e-4607-af8a-51bd495aa35b/TVI%20Reality%20%E1%B4%B9%E1%B5%92%CB%A2%E1%B5%83%E1%B6%A6%E1%B6%9C%E1%B5%92.png" group-title="PORTUGAL",TVI Reality ᴹᵒˢᵃᶦᶜᵒ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/97715.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/97715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI Reality ᶜᴬᴹ¹" tvg-logo="https://cld.pt/dl/download/118c4a2d-5685-4e41-a4dc-88371994dc8b/TVI%20Reality%20%E1%B6%9C%E1%B4%AC%E1%B4%B9%C2%B9.png" group-title="PORTUGAL",TVI Reality ᶜᴬᴹ¹
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/97716.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/97716.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI Reality ᶜᴬᴹ²" tvg-logo="https://cld.pt/dl/download/728c39b9-a4c1-4443-9bf3-aace99626bde/TVI%20Reality%20%E1%B6%9C%E1%B4%AC%E1%B4%B9%C2%B2.png" group-title="PORTUGAL",TVI Reality ᶜᴬᴹ²
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/97717.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/97717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI Reality ᶜᴬᴹ³" tvg-logo="https://cld.pt/dl/download/f35a987f-bc7f-4ad5-8bc8-3a0176827493/TVI%20Reality%20%E1%B6%9C%E1%B4%AC%E1%B4%B9%C2%B3.png" group-title="PORTUGAL",TVI Reality ᶜᴬᴹ³
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/97718.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/97718.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI Reality ᶜᴬᴹ⁴" tvg-logo="https://cld.pt/dl/download/49986b81-eada-43f0-83fa-c3d5a971e445/TVI%20Reality%20%E1%B6%9C%E1%B4%AC%E1%B4%B9%E2%81%B4.png" group-title="PORTUGAL",TVI Reality ᶜᴬᴹ⁴
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/97719.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/97719.m3u8
 #EXTINF:-1 tvg-id="SICMhd" tvg-name="SIC Mulher" tvg-logo="https://cld.pt/dl/download/255e9228-51ff-464d-977e-d815371705cb/SIC%20Mulher.png" group-title="PORTUGAL",SIC Mulher
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14357.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14357.m3u8
 #EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="https://cld.pt/dl/download/dc74744e-90f9-4141-860d-cb42c30ebcb2/SIC%20Caras.png" group-title="PORTUGAL",SIC Caras
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14359.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14359.m3u8
 #EXTINF:-1 tvg-id="SICCARAShd" tvg-name="SIC Caras ᴴᴰ" tvg-logo="https://cld.pt/dl/download/b4395e4f-1445-4500-a17b-926e398a9e1a/SIC%20Caras%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC Caras ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14361.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14361.m3u8
 #EXTINF:-1 tvg-id="SICRhd" tvg-name="SIC Radical" tvg-logo="https://cld.pt/dl/download/1e6ae5e2-c270-4c30-a2f9-b184b7a4265d/SIC%20Radical.png" group-title="PORTUGAL",SIC Radical
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14362.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14362.m3u8
 #EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical ᴴᴰ" tvg-logo="https://cld.pt/dl/download/2af0c75d-f202-461c-b03a-40f7da8a9e9c/SIC%20Radical%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",SIC Radical ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14363.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14363.m3u8
 #EXTINF:-1 tvg-id="SPORTV +" tvg-name="Sport TV +" tvg-logo="https://cld.pt/dl/download/c3a5bce8-963e-4f21-86b9-910f48347fa0/Sport%20TV%20%2B.png" group-title="PORTUGAL",Sport TV +
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/9494.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/9494.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="Sport TV 1" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png" group-title="PORTUGAL",Sport TV 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14443.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14443.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Sport TV 1 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/7356e5dd-f08e-4dd6-b5b8-22744384654d/Sport%20TV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14448.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14448.m3u8
 #EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="Sport TV 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7356e5dd-f08e-4dd6-b5b8-22744384654d/Sport%20TV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14445.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14445.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="Sport TV 2" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png" group-title="PORTUGAL",Sport TV 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14449.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14449.m3u8
 #EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="Sport TV 2 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7f93316e-1789-4083-948d-7f855c470272/Sport%20TV%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14451.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14451.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="Sport TV 3" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png" group-title="PORTUGAL",Sport TV 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14455.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14455.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Sport TV 3 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/43f43847-df6a-45f2-805a-be45763c276a/Sport%20TV%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14458.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14458.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-name="Sport TV 3 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/43f43847-df6a-45f2-805a-be45763c276a/Sport%20TV%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14457.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14457.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport TV 4" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png" group-title="PORTUGAL",Sport TV 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14459.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14459.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="Sport TV 4 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/2891159f-8266-45dd-9483-5dff0a20eea0/Sport%20TV%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14463.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14463.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport TV 4 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/2891159f-8266-45dd-9483-5dff0a20eea0/Sport%20TV%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 4 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14461.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14461.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Sport TV 5" tvg-logo="https://cld.pt/dl/download/caacc24a-de58-446a-b9f2-b9808ee02d98/Sport%20TV%205.png" group-title="PORTUGAL",Sport TV 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14465.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14465.m3u8
 #EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Sport TV 5 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/277d6012-79c7-4d37-81f2-a07f141e01fa/Sport%20TV%205%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14469.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14469.m3u8
 #EXTINF:-1 tvg-id="SPORT.TVHG 5 FULL HD" tvg-name="Sport TV 5 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/277d6012-79c7-4d37-81f2-a07f141e01fa/Sport%20TV%205%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV 5 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14467.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14467.m3u8
 #EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png" group-title="PORTUGAL",Benfica TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14434.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14434.m3u8
 #EXTINF:-1 tvg-id="BTV1hd" tvg-name="Benfica TV ᴴᴰ" tvg-logo="https://cld.pt/dl/download/8742b75c-a380-482f-9185-d8f0d0c67061/BTV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Benfica TV ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14438.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14438.m3u8
 #EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/8742b75c-a380-482f-9185-d8f0d0c67061/BTV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Benfica TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14436.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14436.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png" group-title="PORTUGAL",Eleven Sports 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14475.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14475.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Eleven Sports 1 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/84d2d438-d2b1-4923-afbf-8ae091c104d4/Eleven%20Sports%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14479.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14479.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Eleven Sports 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/84d2d438-d2b1-4923-afbf-8ae091c104d4/Eleven%20Sports%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14477.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14477.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14481.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14481.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Eleven Sports 2 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 2 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14485.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14485.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Eleven Sports 2 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 2 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/9267.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/9267.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14487.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14487.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Eleven Sports 3 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 3 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14491.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14491.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Eleven Sports 3 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 3 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14489.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14489.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 4
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14493.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14493.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 4 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14497.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14497.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 4 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14495.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14495.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5" tvg-logo="https://cld.pt/dl/download/84a6ee7d-3877-4bd6-ad2e-df2688a2e2dd/Eleven%20Sports%205%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 5
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14499.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14499.m3u8
 #EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/84a6ee7d-3877-4bd6-ad2e-df2688a2e2dd/Eleven%20Sports%205%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 5 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14502.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 6
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14504.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 6 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14507.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14507.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eleven Sports 6 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14506.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14506.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PFC" tvg-logo="https://cld.pt/dl/download/7665d4f1-a3af-439d-b57f-1510c2c54f76/PFC.png" group-title="PORTUGAL",PFC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14607.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14607.m3u8
 #EXTINF:-1 tvg-id="SPORTVnbamobile" tvg-name="Sport TV NBA" tvg-logo="https://cld.pt/dl/download/f0debe22-bf9f-4f54-86e4-622760f6e820/Sport%20TV%20NBA%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV NBA
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14470.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14470.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Sport TV NBA ᴴᴰ" tvg-logo="https://cld.pt/dl/download/f0debe22-bf9f-4f54-86e4-622760f6e820/Sport%20TV%20NBA%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Sport TV NBA ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14472.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14472.m3u8
 #EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1" tvg-logo="https://cld.pt/dl/download/ba0be867-35fe-4ded-99e2-e6f517b0cb13/Eurosport%201.png" group-title="PORTUGAL",Eurosport 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14509.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14509.m3u8
 #EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/55aa8c70-28c4-4ddb-9b97-23a37e106a13/Eurosport%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eurosport 1 ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14511.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14511.m3u8
 #EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/55aa8c70-28c4-4ddb-9b97-23a37e106a13/Eurosport%201%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Eurosport 1 ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14510.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14510.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://cld.pt/dl/download/b57e176d-f346-4b26-9630-443a59478743/Eurosport%202.png" group-title="PORTUGAL",Eurosport 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14512.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14512.m3u8
 #EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="Sporting TV" tvg-logo="https://cld.pt/dl/download/e4e6f7e0-b411-4be9-a322-c50d4404a81e/Sporting%20TV.png" group-title="PORTUGAL",Sporting TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14473.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14473.m3u8
 #EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel" tvg-logo="https://cld.pt/dl/download/be9cbcd7-88f6-4a06-937e-462e59527122/Disney%20Channel.png" group-title="PORTUGAL",Disney Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14373.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14373.m3u8
 #EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="Disney Junior" tvg-logo="https://cld.pt/dl/download/766a9ce0-6ddc-4a8e-9b85-f7560b98fb64/Disney%20Junior.png" group-title="PORTUGAL",Disney Junior
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14374.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14374.m3u8
 #EXTINF:-1 tvg-id="PANDA" tvg-name="Panda" tvg-logo="https://cld.pt/dl/download/f1774906-982b-4a6a-be68-63d182cefe95/Canal%20Panda.png" group-title="PORTUGAL",Panda
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14376.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14376.m3u8
 #EXTINF:-1 tvg-id="Biggs" tvg-name="Panda Biggs" tvg-logo="http://biggs.pt/wp-content/uploads/2018/04/Logo_biggs.png" group-title="PORTUGAL",Panda Biggs
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14377.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14377.m3u8
 #EXTINF:-1 tvg-id="Nickeju" tvg-name="Nick JR" tvg-logo="https://cld.pt/dl/download/6e169f2a-27e0-4f23-a40c-e5edddca5b7a/Nick%20Jr.png" group-title="PORTUGAL",Nick JR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14603.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14603.m3u8
 #EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="https://cld.pt/dl/download/201db2c4-e342-47d1-9d62-bcf74f9903b9/Nickelodeon.png" group-title="PORTUGAL",Nickelodeon
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14375.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14375.m3u8
 #EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network" tvg-logo="https://cld.pt/dl/download/00369877-9965-4d93-9769-a29f05f9d716/Cartoon%20Network.png" group-title="PORTUGAL",Cartoon Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14378.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14378.m3u8
 #EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV" tvg-logo="https://cld.pt/dl/download/4d99065a-c3e6-4bcc-a10d-0b0838ce5cb6/Baby%20TV.png" group-title="PORTUGAL",Baby TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14379.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14379.m3u8
 #EXTINF:-1 tvg-id="JimJam" tvg-name="Jim Jam" tvg-logo="https://cld.pt/dl/download/31c27171-f3e0-40fa-974e-adf86c25549b/JimJam.png" group-title="PORTUGAL",Jim Jam
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14380.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14380.m3u8
 #EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://cld.pt/dl/download/095f1575-0a7d-42fd-8186-7b958f1b0777/SIC%20K.png" group-title="PORTUGAL",SIC K
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14381.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14381.m3u8
 #EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K ᴴᴰ" tvg-logo="https://cld.pt/dl/download/095f1575-0a7d-42fd-8186-7b958f1b0777/SIC%20K.png" group-title="PORTUGAL",SIC K ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14383.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14383.m3u8
 #EXTINF:-1 tvg-id="TVCg1" tvg-name="TvCine TOP" tvg-logo="https://cld.pt/dl/download/eb4afa35-cdbb-49e1-9b11-906b36eb7dc7/TvCine%20TOP.png" group-title="PORTUGAL",TvCine TOP
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14384.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14384.m3u8
 #EXTINF:-1 tvg-id="TVCg1" tvg-name="TvCine TOP ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/eb4afa35-cdbb-49e1-9b11-906b36eb7dc7/TvCine%20TOP.png" group-title="PORTUGAL",TvCine TOP ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14387.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14387.m3u8
 #EXTINF:-1 tvg-id="TVCg2" tvg-name="TvCine EDITION" tvg-logo="https://cld.pt/dl/download/3d26f40c-ae64-48d6-bdc3-8f38a96b80ba/TvCine%20EDITION.png" group-title="PORTUGAL",TvCine EDITION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14389.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14389.m3u8
 #EXTINF:-1 tvg-id="TVCg2" tvg-name="TvCine EDITION ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/3d26f40c-ae64-48d6-bdc3-8f38a96b80ba/TvCine%20EDITION.png" group-title="PORTUGAL",TvCine EDITION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14390.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14390.m3u8
 #EXTINF:-1 tvg-id="TVCg3" tvg-name="TvCine EMOTION" tvg-logo="https://cld.pt/dl/download/9b5f301d-2455-4aad-aab3-355119871474/TvCine%20EMOTION%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TvCine EMOTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14391.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14391.m3u8
 #EXTINF:-1 tvg-id="TVCg3" tvg-name="TvCine EMOTION ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/9b5f301d-2455-4aad-aab3-355119871474/TvCine%20EMOTION%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TvCine EMOTION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14392.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14392.m3u8
 #EXTINF:-1 tvg-id="TVCg4" tvg-name="TvCine ACTION" tvg-logo="https://cld.pt/dl/download/7b535c4f-8e39-4d01-b969-1b46aa64869a/TvCine%20ACTION.png" group-title="PORTUGAL",TvCine ACTION
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14393.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14393.m3u8
 #EXTINF:-1 tvg-id="TVCg4" tvg-name="TvCine ACTION ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7b535c4f-8e39-4d01-b969-1b46aa64869a/TvCine%20ACTION.png" group-title="PORTUGAL",TvCine ACTION ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14395.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14395.m3u8
 #EXTINF:-1 tvg-id="FOXHD" tvg-name="FOX" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14400.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14400.m3u8
 #EXTINF:-1 tvg-id="FOXHD" tvg-name="FOX ᴴᴰ" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14414.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14414.m3u8
 #EXTINF:-1 tvg-id="FOXHD" tvg-name="FOX ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14413.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14413.m3u8
 #EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX Movies" tvg-logo="https://cld.pt/dl/download/21106e7d-62b0-4944-9e9c-5e8bf3c22f1f/FOX%20Movies.png" group-title="PORTUGAL",FOX Movies
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14409.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14409.m3u8
 #EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX Movies ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/bc2b0694-6902-4b4d-b9a1-ac661ac20c23/FOX%20Movies%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Movies ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14410.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14410.m3u8
 #EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="FOX Comedy" tvg-logo="https://cld.pt/dl/download/7aab1848-2ba6-4435-948a-7c2b24b2f3cd/FOX%20Comedy.png" group-title="PORTUGAL",FOX Comedy
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14401.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14401.m3u8
 #EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="FOX Comedy ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/bfd6765e-1149-4232-afec-34ee62eb9b3e/FOX%20Comedy%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Comedy ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14402.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14402.m3u8
 #EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="FOX Life" tvg-logo="https://cld.pt/dl/download/629bb450-d340-4a8a-aff4-05f58f1db74f/FOX%20Life%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Life
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14406.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14406.m3u8
 #EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="FOX Life ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/629bb450-d340-4a8a-aff4-05f58f1db74f/FOX%20Life%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Life ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14407.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14407.m3u8
 #EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX Crime" tvg-logo="https://cld.pt/dl/download/6098d778-5cde-4e21-9804-1e35096f4293/FOX%20Crime%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Crime
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14403.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14403.m3u8
 #EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX Crime ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/6098d778-5cde-4e21-9804-1e35096f4293/FOX%20Crime%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",FOX Crime ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14405.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14405.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://cld.pt/dl/download/4e35bafb-d696-469b-8b9e-0e340b8b3557/AXN.png" group-title="PORTUGAL",AXN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14418.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14418.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/b4b86bcf-b103-4a8b-98c5-c715c21cd792/AXN%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",AXN ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14424.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14424.m3u8
 #EXTINF:-1 tvg-id="AXNblHD" tvg-name="AXN Black" tvg-logo="https://cld.pt/dl/download/e17e99b6-d3bc-4888-a8ac-bf056e95b415/AXN%20White%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",AXN Black
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14419.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14419.m3u8
 #EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN White" tvg-logo="https://cld.pt/dl/download/e17e99b6-d3bc-4888-a8ac-bf056e95b415/AXN%20White%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",AXN White
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14425.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14425.m3u8
 #EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywood" tvg-logo="https://cld.pt/dl/download/2566922d-5659-401d-93a4-f539250f63c3/Hollywood.png" group-title="PORTUGAL",Hollywood
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14427.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14427.m3u8
 #EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywood ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/3e14fcd7-dff8-4eac-9285-902a37fde6f6/Hollywood%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Hollywood ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/9348.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/9348.m3u8
 #EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS Studios" tvg-logo="https://cld.pt/dl/download/e1dc190b-0a33-414b-a8cf-2a33efe93f9d/NOS%20Studios%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",NOS Studios
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14398.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14398.m3u8
 #EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS Studios ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/e1dc190b-0a33-414b-a8cf-2a33efe93f9d/NOS%20Studios%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",NOS Studios ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14399.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14399.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="https://cld.pt/dl/download/a66e26be-cfdc-457b-9e9d-798634823d69/AMC.png" group-title="PORTUGAL",AMC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14385.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14385.m3u8
 #EXTINF:-1 tvg-id="amc" tvg-name="AMC ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/887c8016-20f7-42cf-8379-492098742e0a/AMC%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",AMC ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14386.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14386.m3u8
 #EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="https://cld.pt/dl/download/d8e6e910-e6a8-4b5a-b1d5-745a79a843cc/Cinemundo.png" group-title="PORTUGAL",Cinemundo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14415.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14415.m3u8
 #EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/d8e6e910-e6a8-4b5a-b1d5-745a79a843cc/Cinemundo.png" group-title="PORTUGAL",Cinemundo ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14416.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14416.m3u8
 #EXTINF:-1 tvg-id="SYFYHD" tvg-name="Syfy ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/523160f4-d048-4865-bcb9-ed370d7088cc/SyFy%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Syfy ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14432.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14432.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Opto SIC" tvg-logo="https://images.impresa.pt/sic/2020-11-20-logo-opto_roxo-sem-fundo.png" group-title="PORTUGAL",Opto SIC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/133069.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/133069.m3u8
 #EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="https://cld.pt/dl/download/b6e20a95-b853-425f-9903-8aef67df6576/Toros%20TV%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Toros TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14628.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14628.m3u8
 #EXTINF:-1 tvg-id="CaçaePesca" tvg-name="Caca e Pesca" tvg-logo="https://cld.pt/dl/download/005082cc-ef00-4b03-9366-413d7714cca3/Ca%C3%A7a%20e%20Pesca%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Caca e Pesca
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14531.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14531.m3u8
 #EXTINF:-1 tvg-id="CaçaePesca" tvg-name="Caca e Pesca ᴴᴰ" tvg-logo="https://cld.pt/dl/download/005082cc-ef00-4b03-9366-413d7714cca3/Ca%C3%A7a%20e%20Pesca%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Caca e Pesca ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14532.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14532.m3u8
 #EXTINF:-1 tvg-id="CaçaVision" tvg-name="Cacavision" tvg-logo="https://cld.pt/dl/download/08843752-b903-4cd1-b09c-2d6986cdba0f/Ca%C3%A7avision.png" group-title="PORTUGAL",Cacavision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14533.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14533.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://cld.pt/dl/download/ed5f7dcd-cfa8-408d-ab84-18040e331092/Discovery%20Channel.png" group-title="PORTUGAL",Discovery Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14535.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14535.m3u8
 #EXTINF:-1 tvg-id="NGC33" tvg-name="National Geographic" tvg-logo="https://cld.pt/dl/download/0aec08fd-2325-44d0-b222-62764bffe52a/National%20Geographic%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",National Geographic
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14538.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14538.m3u8
 #EXTINF:-1 tvg-id="NGC33" tvg-name="National Geographic ᴴᴰ" tvg-logo="https://cld.pt/dl/download/0aec08fd-2325-44d0-b222-62764bffe52a/National%20Geographic%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",National Geographic ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14543.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14543.m3u8
 #EXTINF:-1 tvg-id="NGCWILD" tvg-name="National Geographic Wild" tvg-logo="https://cld.pt/dl/download/3f2c96ab-25c8-48fd-b903-d31570619e4b/Nat%20Geo%20Wild.png" group-title="PORTUGAL",National Geographic Wild
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14540.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14540.m3u8
 #EXTINF:-1 tvg-id="NGCWILD" tvg-name="National Geographic Wild ᴴᴰ" tvg-logo="https://cld.pt/dl/download/3f2c96ab-25c8-48fd-b903-d31570619e4b/Nat%20Geo%20Wild.png" group-title="PORTUGAL",National Geographic Wild ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14542.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14542.m3u8
 #EXTINF:-1 tvg-id="HIST" tvg-name="Historia" tvg-logo="https://cld.pt/dl/download/ef9849fc-ae55-46d9-9ec6-8be3d485bc7b/Hist%C3%B3ria.png" group-title="PORTUGAL",Historia
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14575.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14575.m3u8
 #EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia" tvg-logo="https://cld.pt/dl/download/60ed76db-25b9-46b0-90d9-6494b75596b7/Odisseia.png" group-title="PORTUGAL",Odisseia
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14604.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14604.m3u8
 #EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia ᴴᴰ" tvg-logo="https://cld.pt/dl/download/60ed76db-25b9-46b0-90d9-6494b75596b7/Odisseia.png" group-title="PORTUGAL",Odisseia ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14606.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14606.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Crime Investigation" tvg-logo="https://cld.pt/dl/download/6e7f4267-05cf-4afc-aab9-b5db13c499a5/CrimeInvestigation.png" group-title="PORTUGAL",Crime Investigation
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14553.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14553.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID Investigation Discovery ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/8f65192f-cf6a-47d4-ab35-021447927db8/ID%20Investigation%20Discovery%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",ID Investigation Discovery ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14577.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14577.m3u8
 #EXTINF:-1 tvg-id="AbE" tvg-name="Blaze" tvg-logo="https://cld.pt/dl/download/a6b0ae89-4177-4ed2-befe-2804fbe98e95/Blaze.png" group-title="PORTUGAL",Blaze
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14525.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14525.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Blaze ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/a6b0ae89-4177-4ed2-befe-2804fbe98e95/Blaze.png" group-title="PORTUGAL",Blaze ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14526.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14526.m3u8
 #EXTINF:-1 tvg-id="Canal Q PT" tvg-name="Canal Q" tvg-logo="https://cld.pt/dl/download/e2d12d2d-fba0-43a1-b7a7-fa3e033c58ed/Canal%20Q.png" group-title="PORTUGAL",Canal Q
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14364.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14364.m3u8
 #EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen" tvg-logo="https://cld.pt/dl/download/980b7c95-cd55-40ed-84de-55aad8720273/24%20Kitchen.png" group-title="PORTUGAL",24 Kitchen
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/9151.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/9151.m3u8
 #EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="The Food Network" tvg-logo="" group-title="PORTUGAL",The Food Network
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14624.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14624.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://cld.pt/dl/download/1a812095-3891-4e57-ae19-4786db848939/TLC.png" group-title="PORTUGAL",TLC
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14431.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="https://cld.pt/dl/download/8c18b999-b294-4e12-867e-b16f689eb47a/CBS%20Reality.png" group-title="PORTUGAL",CBS Reality
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14545.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14545.m3u8
 #EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel" tvg-logo="https://cld.pt/dl/download/baba16cc-7772-45f3-bba6-91ccab45fabb/Travel%20Channel%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Travel Channel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14637.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14637.m3u8
 #EXTINF:-1 tvg-id="Fuel Tv" tvg-name="Fuel TV" tvg-logo="https://cld.pt/dl/download/7e090a1e-dd08-4f4b-aa14-65fd6e06af8e/Fuel%20TV%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Fuel TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14571.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14571.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Fuel TV ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7e090a1e-dd08-4f4b-aa14-65fd6e06af8e/Fuel%20TV%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Fuel TV ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14572.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14572.m3u8
 #EXTINF:-1 tvg-id="Motorvision HD" tvg-name="Motorvision" tvg-logo="https://cld.pt/dl/download/870a9d15-d72b-40b0-bd2e-5107c49c15c2/Motorvision%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Motorvision
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14593.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14593.m3u8
 #EXTINF:-1 tvg-id="Motorvision HD" tvg-name="Motorvision ᴴᴰ" tvg-logo="https://cld.pt/dl/download/870a9d15-d72b-40b0-bd2e-5107c49c15c2/Motorvision%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Motorvision ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14594.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14594.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Dog TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DOGTV_Logo.png/200px-DOGTV_Logo.png" group-title="PORTUGAL",Dog TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14556.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14556.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Dog TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/DOGTV_Logo.png/200px-DOGTV_Logo.png" group-title="PORTUGAL",Dog TV ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14558.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14558.m3u8
 #EXTINF:-1 tvg-id="BABY FIRST" tvg-name="Zap Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Zap_Viva_(logo).png/220px-Zap_Viva_(logo).png" group-title="PORTUGAL",Zap Viva
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/44297.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/44297.m3u8
 #EXTINF:-1 tvg-id="TVC INTERNACIONAL" tvg-name="TCV Internacional" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tcv-internacional/tcv-icon.png" group-title="PORTUGAL",TCV Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14622.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14622.m3u8
 #EXTINF:-1 tvg-id="TV Record HD" tvg-name="TV Record" tvg-logo="https://cld.pt/dl/download/058f659b-2b90-4e29-868c-2bcacc45fa7d/TV%20Record%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",TV Record
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14365.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14365.m3u8
 #EXTINF:-1 tvg-id="GLObbO" tvg-name="Globo" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/3/0/6/6/3066345/3066345_snapshot20080527121321,192x192,r:1.jpg" group-title="PORTUGAL",Globo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14372.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14372.m3u8
 #EXTINF:-1 tvg-id="TVGLOBO" tvg-name="Globo Now" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Globo_Now_logo_2018.png/200px-Globo_Now_logo_2018.png" group-title="PORTUGAL",Globo Now
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14369.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14369.m3u8
 #EXTINF:-1 tvg-id="MTV Portugal" tvg-name="MTV" tvg-logo="https://cld.pt/dl/download/a7637db7-ebf2-4e3e-8cc1-aac0b10c3740/MTV%20Portugal%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",MTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14595.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14595.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Afro Music" tvg-logo="https://cld.pt/dl/download/c5ddd39f-7374-42f6-b457-71a5d220440c/Afro%20Music.png" group-title="PORTUGAL",Afro Music
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14516.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14516.m3u8
 #EXTINF:-1 tvg-id="Trnace toca" tvg-name="Trace Toca" tvg-logo="https://cld.pt/dl/download/584f3372-8b69-41a6-a7f6-4d95ed259d09/Trace%20Toca.png" group-title="PORTUGAL",Trace Toca
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14632.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14632.m3u8
 #EXTINF:-1 tvg-id="TRACEURBANHD" tvg-name="Trace Urban" tvg-logo="https://cld.pt/dl/download/23ebc99d-a903-4efe-b6da-e0d7bffafd92/Trace%20Urban.png" group-title="PORTUGAL",Trace Urban
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14634.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14634.m3u8
 #EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Top" tvg-logo="https://cld.pt/dl/download/b61c8d0b-26f5-41b9-8c8b-698b1a697b69/MCM%20TOP.png" group-title="PORTUGAL",MCM Top
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14590.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14590.m3u8
 #EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM Pop" tvg-logo="https://cld.pt/dl/download/2cf2552c-2dd7-4713-b6c6-68eef60ba2e7/MCM%20POP.png" group-title="PORTUGAL",MCM Pop
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14589.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14589.m3u8
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1" tvg-logo="https://cld.pt/dl/download/42d594f8-d680-4584-a2b0-e22dcc51c2cf/VH1.png" group-title="PORTUGAL",VH1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14647.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14647.m3u8
 #EXTINF:-1 tvg-id="MEZZO" tvg-name="Mezzo" tvg-logo="https://cld.pt/dl/download/f91aae8a-874a-4fcd-bbd9-b650f6d431ab/Mezzo%20Live%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Mezzo
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14591.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14591.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Kuriakos Music" tvg-logo="https://cld.pt/dl/download/21a8816c-8c69-47eb-94ad-6ff1979886fa/Kuriakos%20TV.png" group-title="PORTUGAL",Kuriakos Music
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14581.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14581.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Cancao Nova" tvg-logo="https://cld.pt/dl/download/652be493-cb8c-463d-91b5-697b5ea48aa4/Can%C3%A7%C3%A3o%20Nova.png" group-title="PORTUGAL",Cancao Nova
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14534.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14534.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="ARTV" tvg-logo="https://1.bp.blogspot.com/-pgrehA4uSag/WDrqAorIqQI/AAAAAAAAFaQ/9XKHO2_2UMwaVv-Pxian1Dpzzzyjj1eUACLcB/s1600/AR%2BTV.png" group-title="PORTUGAL",ARTV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14519.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14519.m3u8
 #EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memoria" tvg-logo="https://cld.pt/dl/download/347b0d6b-c434-4cd4-82b2-c207d55e394a/RTP%20Memoria.png" group-title="PORTUGAL",RTP Memoria
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14356.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14356.m3u8
 #EXTINF:-1 tvg-id="RTP Internacional PT" tvg-name="RTP Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_RTP_Internacional.png" group-title="PORTUGAL",RTP Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14354.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14354.m3u8
 #EXTINF:-1 tvg-id="RTP Acores PT" tvg-name="RTP Acores" tvg-logo="https://cld.pt/dl/download/8e3704f5-a42d-4ad2-be93-7d3bc828f158/RTP%20Acores.png?download=true" group-title="PORTUGAL",RTP Acores
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14352.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14352.m3u8
 #EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="https://cld.pt/dl/download/d575d5ab-8f9a-469d-9e50-6a0a89001b65/RTP%20Madeira.png?download=true" group-title="PORTUGAL",RTP Madeira
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14355.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14355.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Kuriakos TV" tvg-logo="https://cld.pt/dl/download/21a8816c-8c69-47eb-94ad-6ff1979886fa/Kuriakos%20TV.png" group-title="PORTUGAL",Kuriakos TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14582.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14582.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Kuriakos Kids ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/21a8816c-8c69-47eb-94ad-6ff1979886fa/Kuriakos%20TV.png" group-title="PORTUGAL",Kuriakos Kids ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14580.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14580.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Fatima TV" tvg-logo="https://cld.pt/dl/download/20ade3df-0b42-4612-ac8a-52e9d8c33e9d/Fatima%20TV.png" group-title="PORTUGAL",Fatima TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14567.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14567.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="E! Entertainment" tvg-logo="https://cld.pt/dl/download/e5730a7c-4ccb-41e8-b714-ccba2a64b831/E%21%20Entertainment.png" group-title="PORTUGAL",E! Entertainment
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14559.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14559.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Bloomberg" tvg-logo="https://cld.pt/dl/download/2b78b122-6ce3-447e-a7ff-325be01d8a34/Bloomberg.png" group-title="PORTUGAL",Bloomberg
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14527.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14527.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cld.pt/dl/download/47ded872-3fd2-466a-99cc-e099a67a5104/CNN.png" group-title="PORTUGAL",CNN
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14549.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14549.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="CBS News" tvg-logo="https://3.bp.blogspot.com/-F8PABkDFeKE/UMH5sXEl5OI/AAAAAAAADV4/80viEb9ZoY0/s1600/CBS+Reality.png" group-title="PORTUGAL",CBS News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14537.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14537.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="BBC Entertainment" tvg-logo="https://cld.pt/dl/download/34b48746-5de6-4186-9ae3-02f64eaa79df/BBC%20Entertainment.png" group-title="PORTUGAL",BBC Entertainment
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14520.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14520.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News" tvg-logo="https://cld.pt/dl/download/9afbc4f9-93d0-4188-aae3-fe84d52c9251/BBC%20World%20News%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",BBC World News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14521.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14521.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://cld.pt/dl/download/d6f9c3ec-9996-485b-a9e2-d329b5d65fa0/Euro%20News.png" group-title="PORTUGAL",Euronews
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14563.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="https://cld.pt/dl/download/89eca0b5-ae27-4854-b934-a079450a73e3/Eurochannel.png" group-title="PORTUGAL",Eurochannel
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14562.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14562.m3u8
 #EXTINF:-1 tvg-id="RTPxx1" tvg-name="Sky News" tvg-logo="" group-title="PORTUGAL",Sky News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14618.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14618.m3u8
 #EXTINF:-1 tvg-id="TVEi" tvg-name="TVE 24h" tvg-logo="" group-title="PORTUGAL",TVE 24h
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14644.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14644.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="TVC News" tvg-logo="" group-title="PORTUGAL",TVC News
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14643.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14643.m3u8
 #EXTINF:-1 tvg-id="TV5" tvg-name="TV5 Monde" tvg-logo="https://cld.pt/dl/download/473b271a-2b0d-457c-b869-cb8558fbef75/TV5%20Monde%20Europe.png" group-title="PORTUGAL",TV5 Monde
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14642.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14642.m3u8
 #EXTINF:-1 tvg-id="TVEi" tvg-name="TVE Internacional" tvg-logo="https://cld.pt/dl/download/c3dd7c69-f05b-49b5-b7e2-4b33c86f5138/TVE%20Internacional.png" group-title="PORTUGAL",TVE Internacional
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14645.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14645.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="" group-title="PORTUGAL",NHK World Japan
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14602.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14602.m3u8
 #EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="Fashion TV" tvg-logo="https://cld.pt/dl/download/af413293-009e-4b7f-a96e-24f614a2a44c/Fashion%20TV%20%E1%B4%B4%E1%B4%B0.png" group-title="PORTUGAL",Fashion TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14565.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14565.m3u8
 #EXTINF:-1 tvg-id="KOMBAT SPORT" tvg-name="Kombat Sport" tvg-logo="" group-title="PORTUGAL",Kombat Sport
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14578.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14578.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Fight Network HD ᶠᴴᴰ" tvg-logo="" group-title="PORTUGAL",Fight Network HD ᶠᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14568.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14568.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Localvisao ᴴᴰ" tvg-logo="" group-title="PORTUGAL",Localvisao ᴴᴰ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14584.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14584.m3u8
 #EXTINF:-1 tvg-id="M6" tvg-name="M6 FR" tvg-logo="" group-title="PORTUGAL",M6 FR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14586.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14586.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="RTL DE" tvg-logo="" group-title="PORTUGAL",RTL DE
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14613.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14613.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ginx Esports TV" tvg-logo="" group-title="PORTUGAL",Ginx Esports TV
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14574.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14574.m3u8
 #EXTINF:-1 tvg-id="CANAL 180 HD" tvg-name="180" tvg-logo="" group-title="PORTUGAL",180
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/14650.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/14650.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="- — Portugal Low — -" tvg-logo="https://hgpblog.files.wordpress.com/2010/02/bandeira_portugal_480.jpg" group-title="PT LOWNET",- — Portugal Low — -
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/155205.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/155205.m3u8
 #EXTINF:-1 tvg-id="RTP 1 PT" tvg-name="RTP 1 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/f9a2412c-248e-481d-8338-fb8ff964472e/RTP%201.png" group-title="PT LOWNET",RTP 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12377.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12377.m3u8
 #EXTINF:-1 tvg-id="RTP 2 PT" tvg-name="RTP 2 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/c2eae1b5-ba7e-4414-b975-659101552ddd/RTP%202.png" group-title="PT LOWNET",RTP 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12378.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12378.m3u8
 #EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/SIC.png" group-title="PT LOWNET",SIC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12379.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12379.m3u8
 #EXTINF:-1 tvg-id="TVI" tvg-name="TVI ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/TVI.png" group-title="PT LOWNET",TVI ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12380.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12380.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI 24 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/ed7e7522-8c25-4b23-ba1c-67da66a8df89/TVI%2024.png" group-title="PT LOWNET",TVI 24 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12381.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12381.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="CMTV ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/4335bab7-ef74-4a76-ac5e-0009ae5a1b91/CMTV%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",CMTV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12382.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12382.m3u8
 #EXTINF:-1 tvg-id="SIC Noticias PT" tvg-name="SIC Noticias ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/49acf423-8cd7-444d-9c98-002da0d91288/SIC%20Noticias%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",SIC Noticias ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12383.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12383.m3u8
 #EXTINF:-1 tvg-id="SIC Mulher PT" tvg-name="SIC Mulher ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/255e9228-51ff-464d-977e-d815371705cb/SIC%20Mulher.png" group-title="PT LOWNET",SIC Mulher ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12445.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12445.m3u8
 #EXTINF:-1 tvg-id="SIC Radical PT" tvg-name="SIC Radical ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/1e6ae5e2-c270-4c30-a2f9-b184b7a4265d/SIC%20Radical.png" group-title="PT LOWNET",SIC Radical ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12384.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12384.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="A Bola TV ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/f0d3e171-8c89-4604-9244-a62b0cb5146d/ABola%20TV%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",A Bola TV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12399.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12399.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Canal 11 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/49997863-1103-4343-9ad9-6742fc44b1cd/Canal%2011%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Canal 11 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12398.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12398.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Sport TV + ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/c3a5bce8-963e-4f21-86b9-910f48347fa0/Sport%20TV%20%2B.png" group-title="PT LOWNET",Sport TV + ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12386.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12386.m3u8
 #EXTINF:-1 tvg-id="SportTV 1 PT" tvg-name="Sport TV 1 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png" group-title="PT LOWNET",Sport TV 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12387.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12387.m3u8
 #EXTINF:-1 tvg-id="SPTV2" tvg-name="Sport TV 2 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png" group-title="PT LOWNET",Sport TV 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12388.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12388.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Sport TV 3 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png" group-title="PT LOWNET",Sport TV 3 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12389.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12389.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png" group-title="PT LOWNET",Sport TV 4 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12390.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12390.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Sport TV 5 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/caacc24a-de58-446a-b9f2-b9808ee02d98/Sport%20TV%205.png" group-title="PT LOWNET",Sport TV 5 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12391.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 LOW " tvg-logo="" group-title="PT LOWNET",PT: Sport TV 6 LOW 
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/173441.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/173441.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Benfica TV ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png" group-title="PT LOWNET",Benfica TV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12397.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png" group-title="PT LOWNET",Eleven Sports 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12393.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12393.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Eleven Sports 2 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12394.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12394.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 3 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Eleven Sports 3 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12395.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12395.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 4 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Eleven Sports 4 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12396.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12396.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PFC ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/7665d4f1-a3af-439d-b57f-1510c2c54f76/PFC.png" group-title="PT LOWNET",PFC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12437.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12437.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Sport TV NBA ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/f0debe22-bf9f-4f54-86e4-622760f6e820/Sport%20TV%20NBA%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Sport TV NBA ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12392.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/ba0be867-35fe-4ded-99e2-e6f517b0cb13/Eurosport%201.png" group-title="PT LOWNET",Eurosport 1 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12421.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12421.m3u8
 #EXTINF:-1 tvg-id="TVC 1 PT" tvg-name="TvCine TOP ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/eb4afa35-cdbb-49e1-9b11-906b36eb7dc7/TvCine%20TOP.png" group-title="PT LOWNET",TvCine TOP ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12410.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12410.m3u8
 #EXTINF:-1 tvg-id="TVC 2 PT" tvg-name="TvCine EDITION ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/3d26f40c-ae64-48d6-bdc3-8f38a96b80ba/TvCine%20EDITION.png" group-title="PT LOWNET",TvCine EDITION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12411.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12411.m3u8
 #EXTINF:-1 tvg-id="TVC 3 PT" tvg-name="TvCine EMOTION ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/9b5f301d-2455-4aad-aab3-355119871474/TvCine%20EMOTION%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",TvCine EMOTION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12412.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12412.m3u8
 #EXTINF:-1 tvg-id="TVC 4 PT" tvg-name="TvCine ACTION ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/7b535c4f-8e39-4d01-b969-1b46aa64869a/TvCine%20ACTION.png" group-title="PT LOWNET",TvCine ACTION ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12413.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12413.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",FOX ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12408.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12408.m3u8
 #EXTINF:-1 tvg-id="FOX Movies PT" tvg-name="FOX Movies ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/21106e7d-62b0-4944-9e9c-5e8bf3c22f1f/FOX%20Movies.png" group-title="PT LOWNET",FOX Movies ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12407.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Life ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/629bb450-d340-4a8a-aff4-05f58f1db74f/FOX%20Life%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",FOX Life ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12406.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12406.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="FOX Comedy ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/7aab1848-2ba6-4435-948a-7c2b24b2f3cd/FOX%20Comedy.png" group-title="PT LOWNET",FOX Comedy ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12404.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12404.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="FOX Crime ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/6098d778-5cde-4e21-9804-1e35096f4293/FOX%20Crime%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",FOX Crime ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12405.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12405.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/4e35bafb-d696-469b-8b9e-0e340b8b3557/AXN.png" group-title="PT LOWNET",AXN ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12402.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12402.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN Black ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/e17e99b6-d3bc-4888-a8ac-bf056e95b415/AXN%20White%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",AXN Black ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12400.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN White ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/e17e99b6-d3bc-4888-a8ac-bf056e95b415/AXN%20White%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",AXN White ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12401.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12401.m3u8
 #EXTINF:-1 tvg-id="Hollywood PT" tvg-name="Hollywood ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/2566922d-5659-401d-93a4-f539250f63c3/Hollywood.png" group-title="PT LOWNET",Hollywood ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12409.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemundo ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/d8e6e910-e6a8-4b5a-b1d5-745a79a843cc/Cinemundo.png" group-title="PT LOWNET",Cinemundo ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12403.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12403.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/887c8016-20f7-42cf-8379-492098742e0a/AMC%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",AMC ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12447.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12447.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Syfy ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/523160f4-d048-4865-bcb9-ed370d7088cc/SyFy%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Syfy ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12450.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12450.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panda ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/f1774906-982b-4a6a-be68-63d182cefe95/Canal%20Panda.png" group-title="PT LOWNET",Panda ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12416.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/be9cbcd7-88f6-4a06-937e-462e59527122/Disney%20Channel.png" group-title="PT LOWNET",Disney Channel ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12417.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12417.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Cartoon Network ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/00369877-9965-4d93-9769-a29f05f9d716/Cartoon%20Network.png" group-title="PT LOWNET",Cartoon Network ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12414.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12414.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/201db2c4-e342-47d1-9d62-bcf74f9903b9/Nickelodeon.png" group-title="PT LOWNET",Nickelodeon ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12435.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12435.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jim Jam ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/31c27171-f3e0-40fa-974e-adf86c25549b/JimJam.png" group-title="PT LOWNET",Jim Jam ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12418.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12418.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/4d99065a-c3e6-4bcc-a10d-0b0838ce5cb6/Baby%20TV.png" group-title="PT LOWNET",Baby TV ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12420.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12420.m3u8
 #EXTINF:-1 tvg-id="SIC Kids PT" tvg-name="SIC K ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/095f1575-0a7d-42fd-8186-7b958f1b0777/SIC%20K.png" group-title="PT LOWNET",SIC K ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12419.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo ᴸᴼᵂ" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/3/0/6/6/3066345/3066345_snapshot20080527121321,192x192,r:1.jpg" group-title="PT LOWNET",Globo ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12426.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12426.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Record ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/058f659b-2b90-4e29-868c-2bcacc45fa7d/TV%20Record%20%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",TV Record ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12456.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12456.m3u8
 #EXTINF:-1 tvg-id="RTP1HD" tvg-name="Historia ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/ef9849fc-ae55-46d9-9ec6-8be3d485bc7b/Hist%C3%B3ria.png" group-title="PT LOWNET",Historia ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12427.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12427.m3u8
 #EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3 ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/52c3185e-a45c-4f9b-9a8c-5670ddb3640c/RTP%203.png" group-title="PT LOWNET",RTP 3 ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12434.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12434.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porto Canal ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/d7eefc9e-c979-4ab8-a52f-33363918e0ab/Porto%20Canal%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="PT LOWNET",Porto Canal ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12438.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12438.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Acores ᴸᴼᵂ" tvg-logo="https://2.bp.blogspot.com/-Jx1bSo-8Rpk/VSZNqoxtBHI/AAAAAAAAEvE/rGJ_e03Ho7s/s1600/RTP%2BA%C3%A7ores.png" group-title="PT LOWNET",RTP Acores ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12440.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12440.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Africa ᴸᴼᵂ" tvg-logo="https://2.bp.blogspot.com/-0eQhvMAc7TA/WEcxg9ftAzI/AAAAAAAAFmM/iTfKnoaIuh8vH-Azc9iQBOvQWiFTJvIFgCLcB/s1600/RTP%2B%25C3%2581frica.png" group-title="PT LOWNET",RTP Africa ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12441.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12441.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Madeira ᴸᴼᵂ" tvg-logo="https://4.bp.blogspot.com/-dw1AvSiX9HA/VSZNrFSBUHI/AAAAAAAAEvU/6uqGrc9HecU/s1600/RTP%2BMadeira.png" group-title="PT LOWNET",RTP Madeira ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12442.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12442.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Memoria ᴸᴼᵂ" tvg-logo="https://cld.pt/dl/download/347b0d6b-c434-4cd4-82b2-c207d55e394a/RTP%20Memoria.png" group-title="PT LOWNET",RTP Memoria ᴸᴼᵂ
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/12443.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/12443.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Disney Junior Kids Party" tvg-logo="" group-title="PORTUGAL",24/7 Disney Junior Kids Party
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/132197.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/132197.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY MARVEL" tvg-logo="" group-title="24/7 LEGENDADOS",PT: DISNEY MARVEL
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/133065.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/133065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY +" tvg-logo="" group-title="24/7 LEGENDADOS",PT: DISNEY +
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/133066.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/133066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Disney PIXAR" tvg-logo="" group-title="24/7 LEGENDADOS",PT: Disney PIXAR
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/133067.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/133067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY STAR WARS" tvg-logo="" group-title="24/7 LEGENDADOS",PT: DISNEY STAR WARS
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/133068.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/133068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ROBOT MOVIES (EXCLUSIVE)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 ROBOT MOVIES (EXCLUSIVE)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134266.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FICTION MOVIES (EXCLUSIVE)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FICTION MOVIES (EXCLUSIVE)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134267.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134267.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VINGADORES ANIMAÇÃO (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 VINGADORES ANIMAÇÃO (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134268.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134268.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134269.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134269.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL SUPER (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 DRAGON BALL SUPER (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134270.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134270.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 RICK AND MORTY (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 RICK AND MORTY (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134271.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134271.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 OS SIMPSONS (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 OS SIMPSONS (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134272.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134272.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PEGADINHAS 2 (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 PEGADINHAS 2 (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134273.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134273.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PEGADINHAS (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 PEGADINHAS (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134274.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134274.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SÉRIES 24/7 (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 SÉRIES 24/7 (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134275.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134275.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 24/7 STARWARS (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 24/7 STARWARS (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134276.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134276.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES MUSICAIS (EXCLUSIVE)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES MUSICAIS (EXCLUSIVE)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134277.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134277.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES THRILLER/TERROR (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES THRILLER/TERROR (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134278.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134278.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 TOM CRUISE (EXCLUSIVE)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 TOM CRUISE (EXCLUSIVE)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134279.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134279.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 JACKIE CHAN ADVENTURES (EXCLUSIVE)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 JACKIE CHAN ADVENTURES (EXCLUSIVE)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134280.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134280.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 SYLVESTER STALLONE (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 SYLVESTER STALLONE (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134281.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134281.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES DENZEL WASHINGTON (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES DENZEL WASHINGTON (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134282.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134282.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES COMÉDIA (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES COMÉDIA (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134283.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134283.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES WESTERN (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES WESTERN (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134284.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES CLÁSSICOS (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES CLÁSSICOS (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134285.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134285.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 FILMES ACÇÃO (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 FILMES ACÇÃO (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134286.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134286.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 HBO PORTUGAL (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 HBO PORTUGAL (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134287.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134287.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 NETFLIX (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 NETFLIX (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134288.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134288.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DC TV (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7 DC TV (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134289.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MARVEL II  (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7: MARVEL II  (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134290.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134290.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7: MARVEL (exclusive)" tvg-logo="" group-title="24/7 LEGENDADOS",24/7: MARVEL (exclusive)
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/134291.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/134291.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="- — Portugal h265 — -" tvg-logo="https://hgpblog.files.wordpress.com/2010/02/bandeira_portugal_480.jpg" group-title="CANAIS H265",- — Portugal h265 — -
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/155206.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/155206.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/f9a2412c-248e-481d-8338-fb8ff964472e/RTP%201.png" group-title="CANAIS H265",RTP 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151028.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151028.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1 ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/f9a2412c-248e-481d-8338-fb8ff964472e/RTP%201.png" group-title="CANAIS H265",RTP 1 ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151029.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151029.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP 2 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/c2eae1b5-ba7e-4414-b975-659101552ddd/RTP%202.png" group-title="CANAIS H265",RTP 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151075.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/SIC.png" group-title="CANAIS H265",SIC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151030.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151030.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/SIC.png" group-title="CANAIS H265",SIC ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151031.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151031.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/TVI.png" group-title="CANAIS H265",TVI ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151032.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7429f14a-d545-4826-a305-e747329f98b6/logospt/TVI.png" group-title="CANAIS H265",TVI ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151033.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151033.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC Caras ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/dc74744e-90f9-4141-860d-cb42c30ebcb2/SIC%20Caras.png" group-title="CANAIS H265",SIC Caras ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151073.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151073.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVI 24 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/ed7e7522-8c25-4b23-ba1c-67da66a8df89/TVI%2024.png" group-title="CANAIS H265",TVI 24 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151074.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SIC Noticias ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/49acf423-8cd7-444d-9c98-002da0d91288/SIC%20Noticias%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",SIC Noticias ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151036.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151036.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CMTV ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4335bab7-ef74-4a76-ac5e-0009ae5a1b91/CMTV%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",CMTV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151034.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151034.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CMTV ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4335bab7-ef74-4a76-ac5e-0009ae5a1b91/CMTV%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",CMTV ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151035.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151035.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Bola TV ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/f0d3e171-8c89-4604-9244-a62b0cb5146d/ABola%20TV%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",A Bola TV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151037.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151037.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/49997863-1103-4343-9ad9-6742fc44b1cd/Canal%2011%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",Canal 11 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151076.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151076.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV + ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/c3a5bce8-963e-4f21-86b9-910f48347fa0/Sport%20TV%20%2B.png" group-title="CANAIS H265",Sport TV + ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151039.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151039.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png" group-title="CANAIS H265",Sport TV 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151040.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151040.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png" group-title="CANAIS H265",Sport TV 1 ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151041.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151041.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png" group-title="CANAIS H265",Sport TV 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151042.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png" group-title="CANAIS H265",Sport TV 2 ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151043.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151043.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png" group-title="CANAIS H265",Sport TV 3 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151044.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151044.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png" group-title="CANAIS H265",Sport TV 4 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151045.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/caacc24a-de58-446a-b9f2-b9808ee02d98/Sport%20TV%205.png" group-title="CANAIS H265",Sport TV 5 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151046.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151046.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Benfica TV ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png" group-title="CANAIS H265",Benfica TV ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151048.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151048.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Benfica TV ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png" group-title="CANAIS H265",Benfica TV ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151047.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151047.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png" group-title="CANAIS H265",Eleven Sports 1 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151049.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151049.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 1 ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png" group-title="CANAIS H265",Eleven Sports 1 ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151050.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",Eleven Sports 2 ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151051.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151051.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 2 ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",Eleven Sports 2 ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151052.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvCine TOP ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/eb4afa35-cdbb-49e1-9b11-906b36eb7dc7/TvCine%20TOP.png" group-title="CANAIS H265",TvCine TOP ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151053.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151053.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvCine EDITION ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/3d26f40c-ae64-48d6-bdc3-8f38a96b80ba/TvCine%20EDITION.png" group-title="CANAIS H265",TvCine EDITION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151055.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151055.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvCine EDITION ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/3d26f40c-ae64-48d6-bdc3-8f38a96b80ba/TvCine%20EDITION.png" group-title="CANAIS H265",TvCine EDITION ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151054.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151054.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvCine EMOTION ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/9b5f301d-2455-4aad-aab3-355119871474/TvCine%20EMOTION%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",TvCine EMOTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151056.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TvCine ACTION ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7b535c4f-8e39-4d01-b969-1b46aa64869a/TvCine%20ACTION.png" group-title="CANAIS H265",TvCine ACTION ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151057.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",FOX ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151061.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/affe1d94-d998-405f-90b4-42e63e80f511/FOX%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",FOX ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151060.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Movies ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/21106e7d-62b0-4944-9e9c-5e8bf3c22f1f/FOX%20Movies.png" group-title="CANAIS H265",FOX Movies ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151064.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Life ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/629bb450-d340-4a8a-aff4-05f58f1db74f/FOX%20Life%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",FOX Life ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151067.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Comedy ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/7aab1848-2ba6-4435-948a-7c2b24b2f3cd/FOX%20Comedy.png" group-title="CANAIS H265",FOX Comedy ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151066.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX Crime ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/6098d778-5cde-4e21-9804-1e35096f4293/FOX%20Crime%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",FOX Crime ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151065.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4e35bafb-d696-469b-8b9e-0e340b8b3557/AXN.png" group-title="CANAIS H265",AXN ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151059.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN ᴴᴰ ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/4e35bafb-d696-469b-8b9e-0e340b8b3557/AXN.png" group-title="CANAIS H265",AXN ᴴᴰ ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151058.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN White ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/e17e99b6-d3bc-4888-a8ac-bf056e95b415/AXN%20White%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",AXN White ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151062.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151062.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN Movies ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/c6faaa3d-e7a9-4ca2-9c44-3024d590a68e/AXN%20Movies%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",AXN Movies ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151063.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOS Studios ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/e1dc190b-0a33-414b-a8cf-2a33efe93f9d/NOS%20Studios%20%E1%B6%A0%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",NOS Studios ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151068.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hollywood ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/2566922d-5659-401d-93a4-f539250f63c3/Hollywood.png" group-title="CANAIS H265",Hollywood ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151069.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemundo ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/d8e6e910-e6a8-4b5a-b1d5-745a79a843cc/Cinemundo.png" group-title="CANAIS H265",Cinemundo ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151070.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AMC ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/887c8016-20f7-42cf-8379-492098742e0a/AMC%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",AMC ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151072.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo ᴴ²⁶⁵" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/3/0/6/6/3066345/3066345_snapshot20080527121321,192x192,r:1.jpg" group-title="CANAIS H265",Globo ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151038.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151038.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Record ᴴ²⁶⁵" tvg-logo="https://cld.pt/dl/download/058f659b-2b90-4e29-868c-2bcacc45fa7d/TV%20Record%20%E1%B4%B4%E1%B4%B0.png" group-title="CANAIS H265",TV Record ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151077.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Casa Cozinha ᴴ²⁶⁵" tvg-logo="" group-title="CANAIS H265",Casa Cozinha ᴴ²⁶⁵
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/151071.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/151071.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="" group-title="MUSICA",ANTENA 1
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/172227.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/172227.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 2" tvg-logo="" group-title="MUSICA",ANTENA 2
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/172228.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/172228.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="" group-title="MUSICA",ANTENA 3
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/172229.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/172229.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CIDADE FM" tvg-logo="" group-title="MUSICA",CIDADE FM
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/172230.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/172230.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M80" tvg-logo="" group-title="MUSICA",M80
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/172231.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/172231.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport tv 6 HD" tvg-logo="" group-title="PORTUGAL",PT: Sport tv 6 HD
-plugin://plugin.video.f4mTester/?name=wolfvipf&streamtype=HLSRETRY&amp;url=https://asetoh.xyz:8443/live/nunor/4325/173988.m3u8
+https://asetoh.xyz:8443/live/nunor/4325/173988.m3u8
