@@ -1,0 +1,257 @@
+#EXTM3U
+# 2021-09-19
+
+# x00.so
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 1 FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74854.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 1 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74853.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 1 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74855.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 1 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74852.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 2 FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74858.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 2 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74857.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 2 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74859.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 2 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74856.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 3 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74861.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 3 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74862.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 3 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74860.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 4 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74864.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 4 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74865.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 4 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74863.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 5 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74867.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 5 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74868.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 5 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74866.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 6 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74870.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Eleven Sports - x00.so",PT: Eleven Sports 6 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74869.ts
+
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Benfica TV - x00.so",PT: BTV
+http://x00.so:80/Marta2portugal2/PgKya998/74821.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Benfica TV - x00.so",PT: BTV FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74824.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Benfica TV - x00.so",PT: BTV FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74823.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Benfica TV - x00.so",PT: BTV HD
+http://x00.so:80/Marta2portugal2/PgKya998/74825.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Benfica TV - x00.so",PT: BTV SD
+http://x00.so:80/Marta2portugal2/PgKya998/74822.ts
+
+
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV+
+http://x00.so:80/Marta2portugal2/PgKya998/74979.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV+ FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74980.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 1
+http://x00.so:80/Marta2portugal2/PgKya998/74958.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 1 FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74961.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 1 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74960.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 1 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74962.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 1 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74959.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 2
+http://x00.so:80/Marta2portugal2/PgKya998/74963.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 2 FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74966.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 2 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74965.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 2 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74967.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 2 SD
+http://x00.so:80/Marta2portugal2/PgKya998/74964.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 3
+http://x00.so:80/Marta2portugal2/PgKya998/74968.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 3 FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74970.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 3 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74969.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 3 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74971.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 4
+http://x00.so:80/Marta2portugal2/PgKya998/74972.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 4 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74973.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 4 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74974.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 5
+http://x00.so:80/Marta2portugal2/PgKya998/74975.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 5 FHD
+http://x00.so:80/Marta2portugal2/PgKya998/74976.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV 5 HD
+http://x00.so:80/Marta2portugal2/PgKya998/74977.ts
+#EXTINF:-1 tvg-logo="http://vod-logo.mag-live.me/stalker_portal/misc/logos/120/12822.jpg" group-title="Sport TV - x00.so",PT: Sport TV NBA FHD [H265]
+http://x00.so:80/Marta2portugal2/PgKya998/74978.ts
+
+
+# ankatv.live
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 1 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3175
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 2 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3176
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 3 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3177
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 4 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3178
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 5 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3179
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sports 6 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3180
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 1 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sport 1 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3181
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 2 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sport 2 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3182
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sport 3 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: Eleven Sport 3 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3183
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: EUROSPORT 1 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3184
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3185
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3186
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 1 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3187
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 1 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3188
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 1 SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3189
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 2 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3190
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 2 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3191
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 2 SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3192
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 3 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3193
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 3 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3194
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 3 SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3195
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 4 FHD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3196
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 4 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3197
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 4 SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3198
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 5 HD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3199
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 SD" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 5 SD
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3200
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="Servidor: ankatv.live",PT: BENFICA TV
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/3201
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV +HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8845
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 1 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8846
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 2 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8847
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 3 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8848
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV 5 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8849
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: SPORT TV NBA HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8850
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 1 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: BTV 1 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8851
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: ELEVEN SPORT 1 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8852
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: ELEVEN SPORTS 2 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8853
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HEVC" tvg-logo="" group-title="Servidor: ankatv.live",PT: ELEVEN SPORTS 3 HEVC
+http://ankatv.live:8080/niko-tel/P6fGNY7RgJ/8854
+
+
+# asetoh.xyz
+
+
+#EXTINF:-1 tvg-id="SPORTV +" tvg-name="Sport TV +" tvg-logo="https://cld.pt/dl/download/c3a5bce8-963e-4f21-86b9-910f48347fa0/Sport%20TV%20%2B.png" group-title="asetoh.xyz",Sport TV +
+https://asetoh.xyz:8443/live/nunor/4325/9494.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="Sport TV 1" tvg-logo="https://cld.pt/dl/download/5c8f6689-cc88-43d6-9bcb-4517da143d76/Sport%20TV%201.png" group-title="asetoh.xyz",Sport TV 1
+https://asetoh.xyz:8443/live/nunor/4325/14443.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 1 HD" tvg-name="Sport TV 1 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/7356e5dd-f08e-4dd6-b5b8-22744384654d/Sport%20TV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 1 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14448.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-name="Sport TV 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7356e5dd-f08e-4dd6-b5b8-22744384654d/Sport%20TV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 1 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14445.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="Sport TV 2" tvg-logo="https://cld.pt/dl/download/044063f4-94ab-4bcb-ab46-159d38960b30/Sport%20TV%202.png" group-title="asetoh.xyz",Sport TV 2
+https://asetoh.xyz:8443/live/nunor/4325/14449.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-name="Sport TV 2 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/7f93316e-1789-4083-948d-7f855c470272/Sport%20TV%202%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 2 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14451.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="Sport TV 3" tvg-logo="https://cld.pt/dl/download/4a40b4d6-9c29-4c3f-8735-6d8aea8b46a9/Sport%20TV%203.png" group-title="asetoh.xyz",Sport TV 3
+https://asetoh.xyz:8443/live/nunor/4325/14455.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-name="Sport TV 3 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/43f43847-df6a-45f2-805a-be45763c276a/Sport%20TV%203%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 3 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14458.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-name="Sport TV 3 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/43f43847-df6a-45f2-805a-be45763c276a/Sport%20TV%203%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 3 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14457.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport TV 4" tvg-logo="https://cld.pt/dl/download/4586f96a-af1a-473b-9499-33201eb8e3fa/Sport%20TV%204.png" group-title="asetoh.xyz",Sport TV 4
+https://asetoh.xyz:8443/live/nunor/4325/14459.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-name="Sport TV 4 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/2891159f-8266-45dd-9483-5dff0a20eea0/Sport%20TV%204%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 4 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14463.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport TV 4 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/2891159f-8266-45dd-9483-5dff0a20eea0/Sport%20TV%204%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 4 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14461.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Sport TV 5" tvg-logo="https://cld.pt/dl/download/caacc24a-de58-446a-b9f2-b9808ee02d98/Sport%20TV%205.png" group-title="asetoh.xyz",Sport TV 5
+https://asetoh.xyz:8443/live/nunor/4325/14465.m3u8
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-name="Sport TV 5 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/277d6012-79c7-4d37-81f2-a07f141e01fa/Sport%20TV%205%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 5 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14469.m3u8
+#EXTINF:-1 tvg-id="SPORT.TVHG 5 FULL HD" tvg-name="Sport TV 5 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/277d6012-79c7-4d37-81f2-a07f141e01fa/Sport%20TV%205%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Sport TV 5 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14467.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV" tvg-logo="https://cld.pt/dl/download/bc41e4a2-0dc9-43d3-b945-890185d914a8/BTV%201.png" group-title="asetoh.xyz",Benfica TV
+https://asetoh.xyz:8443/live/nunor/4325/14434.m3u8
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="Benfica TV ᴴᴰ" tvg-logo="https://cld.pt/dl/download/8742b75c-a380-482f-9185-d8f0d0c67061/BTV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Benfica TV ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14438.m3u8
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-name="Benfica TV ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/8742b75c-a380-482f-9185-d8f0d0c67061/BTV%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Benfica TV ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14436.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1" tvg-logo="https://cld.pt/dl/download/8ab2afd2-2326-463e-9c9f-3e6428f0e12e/Eleven%20Sports%201.png" group-title="asetoh.xyz",Eleven Sports 1
+https://asetoh.xyz:8443/live/nunor/4325/14475.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Eleven Sports 1 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/84d2d438-d2b1-4923-afbf-8ae091c104d4/Eleven%20Sports%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 1 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14479.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Eleven Sports 1 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/84d2d438-d2b1-4923-afbf-8ae091c104d4/Eleven%20Sports%201%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 1 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14477.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 2
+https://asetoh.xyz:8443/live/nunor/4325/14481.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Eleven Sports 2 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 2 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14485.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Eleven Sports 2 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/6ac8cfa6-d80a-42a0-b115-f8994e9a0c4f/Eleven%20Sports%202%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 2 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/9267.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 3
+https://asetoh.xyz:8443/live/nunor/4325/14487.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Eleven Sports 3 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 3 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14491.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Eleven Sports 3 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/e3dee7a8-6d95-459e-acf5-eba88d932996/Eleven%20Sports%203%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 3 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14489.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 4
+https://asetoh.xyz:8443/live/nunor/4325/14493.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 4 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14497.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/b6970d10-eaf7-49a0-b99a-f011e6d544de/Eleven%20Sports%204%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 4 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14495.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5" tvg-logo="https://cld.pt/dl/download/84a6ee7d-3877-4bd6-ad2e-df2688a2e2dd/Eleven%20Sports%205%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 5
+https://asetoh.xyz:8443/live/nunor/4325/14499.m3u8
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/84a6ee7d-3877-4bd6-ad2e-df2688a2e2dd/Eleven%20Sports%205%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 5 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 6
+https://asetoh.xyz:8443/live/nunor/4325/14504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 ᴴᴰ" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 6 ᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eleven Sports 6 ᶠᴴᴰ" tvg-logo="https://cld.pt/dl/download/5025f595-e5c7-4683-a34e-71de5094d56d/Eleven%20Sports%206%20%E1%B4%B4%E1%B4%B0.png" group-title="asetoh.xyz",Eleven Sports 6 ᶠᴴᴰ
+https://asetoh.xyz:8443/live/nunor/4325/14506.m3u8
